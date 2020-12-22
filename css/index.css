@@ -79,6 +79,11 @@ body
     padding: 1.5% 0% 1.5% 0%;
 }
 
+.col-md-6
+{
+	margin: 1rem;
+}
+
 .profil
 {
     text-align: center;
