@@ -8,6 +8,7 @@
 body
 {
     overflow: hidden;
+    overflow-x: none;
     background-color: #323232;
 }
 
@@ -27,11 +28,6 @@ body
     height: 2.5rem;
     width: 2.5rem;
     background-color: white;
-}
-
-.toggle:hover
-{
-    color: #FFFFFF;
 }
 
 .toggle-light
