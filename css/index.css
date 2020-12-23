@@ -29,6 +29,11 @@ body
     background-color: white;
 }
 
+.toggle:hover
+{
+    color: #FFFFFF;
+}
+
 .toggle-light
 {
     color: #FFFFFF;
