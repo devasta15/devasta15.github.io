@@ -4,7 +4,7 @@ $(document).ready(() => {
             overflow: 'auto'
         });
         $('.banner').hide();
-    }, 3000);
+    }, 5000);
 
     $('.toggle').click(() => {
         $('.toggle').toggleClass('toggle-light');
